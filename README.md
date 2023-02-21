@@ -3,6 +3,8 @@
 
 A web-based annotator for closed-domain question answering datasets with SQuAD format. The tool is developed and extended on top of cdQA annotation tool.
 
+![](https://github.com/banglaAI/BAnno-QA/interface.png)
+
 ### Installation:
 
 Clone the repository:
